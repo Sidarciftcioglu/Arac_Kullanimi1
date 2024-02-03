@@ -20,9 +20,10 @@ namespace Arac_Kullanimi1
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello World!");//Bir komutun sol tarafında küp işareti varsa o komutun sonunda mutlaka parantez açılıp kapanır.Yani onun bir metod olduğunu bildirir.
+            MessageBox.Show("I win>:)");
         }
 
-        private void button2_Click(object sender, EventArgs e)
+       private void button2_Click(object sender, EventArgs e)
         {
             label2.Text = "Sidar";
         }
